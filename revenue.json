@@ -1,0 +1,89 @@
+{
+    "daily_revenue": [
+      {
+        "day_of_week": "Monday",
+        "revenue": 1500.75
+      },
+      {
+        "day_of_week": "Tuesday",
+        "revenue": 1800.60
+      },
+      {
+        "day_of_week": "Wednesday",
+        "revenue": 1350.00
+      },
+      {
+        "day_of_week": "Thursday",
+        "revenue": 2000.10
+      },
+      {
+        "day_of_week": "Friday",
+        "revenue": 1750.45
+      },
+      {
+        "day_of_week": "Saturday",
+        "revenue": 0.00
+      },
+      {
+        "day_of_week": "Sunday",
+        "revenue": 0.00
+      },
+      {
+        "day_of_week": "Monday",
+        "revenue": 1600.80
+      },
+      {
+        "day_of_week": "Tuesday",
+        "revenue": 1550.60
+      },
+      {
+        "day_of_week": "Wednesday",
+        "revenue": 1400.50
+      },
+      {
+        "day_of_week": "Thursday",
+        "revenue": 1900.20
+      },
+      {
+        "day_of_week": "Friday",
+        "revenue": 1755.45
+      },
+      {
+        "day_of_week": "Saturday",
+        "revenue": 0.00
+      },
+      {
+        "day_of_week": "Sunday",
+        "revenue": 0.00
+      },
+      {
+        "day_of_week": "Monday",
+        "revenue": 1650.80
+      },
+      {
+        "day_of_week": "Tuesday",
+        "revenue": 1600.60
+      },
+      {
+        "day_of_week": "Wednesday",
+        "revenue": 1450.50
+      },
+      {
+        "day_of_week": "Thursday",
+        "revenue": 1950.20
+      },
+      {
+        "day_of_week": "Friday",
+        "revenue": 1850.45
+      },
+      {
+        "day_of_week": "Saturday",
+        "revenue": 0.00
+      },
+      {
+        "day_of_week": "Sunday",
+        "revenue": 0.00
+      }
+    ]
+  }
+  
